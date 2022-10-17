@@ -1,0 +1,23 @@
+/**
+        * @name Orange Theme
+        * @version 1
+        * @description Orange Theme generated with discordthemes.io/generator on 2022/10/17.
+        * @author discordthemes
+        * @website discordthemes.io
+        */
+        @import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+        @import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+        :root {
+          --themeColor1: #D84A11FF;
+          --themeColor2: #D84A11FF;
+          --customFont: 'Open Sans', sans-serif;
+          --homeImage: url('https://i.imgur.com/HdVnYD0.png');
+          --homeImageSize: cover;
+          --backgroundColor: #0d0d0d;
+          --backgroundImage: url('https://i.imgur.com/cQaowZZ.');
+          --backgroundPosition: center;
+          --backgroundSize: cover;
+          --backgroundRepeat: no-repeat;
+          --backgroundBlur: 0px;
+          --backgroundOpacity: 0.35;
+        }
